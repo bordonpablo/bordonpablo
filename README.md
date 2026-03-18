@@ -1,4 +1,4 @@
-# Hi, I'm Pablo Bordon
+# About me
 
 Geophysicist and researcher specializing in **applied near-surface geophysics** and data processing. I work on ERT/EMI, GPR, and airborne radiometrics and magnetics, with a background in **machine learning for geophysical interpretation** — pattern detection in GPR data, and inversion/interpretation support for EMI/ERT.
 
