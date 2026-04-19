@@ -1,41 +1,29 @@
 # About me
 
-Geophysicist and researcher specializing in **applied near-surface geophysics** and data processing. I work on ERT/EMI, GPR, and airborne radiometrics and magnetics, with a background in **machine learning for geophysical interpretation** — pattern detection in GPR data, and inversion/interpretation support for EMI/ERT.
-
-Currently at the **Brandenburg University of Technology (BTU)**, Cottbus, Germany, focusing on acquisition and processing workflows for resource and environmental applications.
+Geophysicist specializing in **near-surface geophysics and geophysical data processing**. I work with airborne surveys (radiometrics, magnetics, VLF) and ground-based methods (ERT, EMI, GPR), building processing workflows and tools to go from raw sensor data to interpretable maps and models.
 
 ---
 
 ## What I work on
 
-- Near-surface geophysical methods: ERT, EMI, GPR, airborne radiometrics and magnetics
+- Processing pipelines for airborne radiometrics, magnetics, and VLF data
+- Near-surface geophysical methods: ERT, EMI, GPR
+- Python for scientific computing, data analysis, and custom processing tools
+- GIS-integrated workflows (QGIS, ArcGIS)
 - Machine learning applied to geophysical data interpretation
-- Python for scientific computing and reproducible geophysical workflows
-- GIS-integrated processing pipelines (QGIS, ArcGIS)
 
-## Tech & tools
+## Tools & software
 
-**Geophysics:** ReflexW · Res2DInv · Oasis Montaj · EM1DFM
-**Programming:** Python (data analysis, scientific computing, ML)
+**Geophysics:** Oasis Montaj · ReflexW · Res2DInv
+**Programming:** Python
 **GIS:** QGIS · ArcGIS
-
-## Selected publications
-
-- **Bordón, P.**, Bonomo, N., Martinelli, P. (2019). Automatic detection of pipe-flange reflections in GPR data sections using supervised learning. *Journal of Applied Geophysics*, 170, 103856. [DOI](https://doi.org/10.1016/j.jappgeo.2019.103856)
-- **Bordón, P.**, Martinelli, P., et al. (2020). Automatic detection of mud-wall signatures in ground-penetrating radar data. *Archaeological Prospection*. [DOI](https://doi.org/10.1002/arp.1799)
-
-## Background
-
-| Period | Role | Institution |
-|---|---|---|
-| 2024 – present | Researcher | BTU Cottbus-Senftenberg, Germany |
-| 2021 – 2024 | Director of Technical Project Coordination | National University of Moreno, Argentina |
-| 2015 – 2020 | Researcher & Doctoral Fellow | University of Buenos Aires, Argentina |
-
-**Ph.D. in Physics** — University of Buenos Aires (2015–2020)
-Thesis: *Methodological improvements in electrical and electromagnetic prospecting methods of subsurface geophysics*
 
 ---
 
-**Languages:** Spanish (native) · English (C1) · German (A2)
-**Contact:** [bordonpablo@gmail.com](mailto:bordonpablo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pablo-bordon)
+## Background
+
+Ph.D. in Physics (University of Buenos Aires). Former R&D project manager at the National University of Moreno, Argentina. Currently postdoctoral researcher at **BTU Cottbus-Senftenberg**, Germany, working on geophysical data acquisition and processing for resource exploration and environmental applications.
+
+---
+
+📫 **Contact:** [bordonpablo@gmail.com](mailto:bordonpablo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pablo-bordon)
