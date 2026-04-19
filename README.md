@@ -1,6 +1,6 @@
 # About me
 
-Geophysicist specializing in **near-surface geophysics and geophysical data processing**. I work with airborne surveys (radiometrics, magnetics, VLF) and ground-based methods (ERT, EMI, GPR), building processing workflows and tools to go from raw sensor data to interpretable maps and models.
+Geophysicist specializing in near-surface geophysics and geophysical data processing. I work with airborne surveys (radiometrics, magnetics, VLF) and ground-based methods (ERT, EMI, GPR), building processing workflows and tools to go from raw sensor data to interpretable maps and models.
 
 ---
 
@@ -15,7 +15,9 @@ Geophysicist specializing in **near-surface geophysics and geophysical data proc
 ## Tools & software
 
 **Geophysics:** Oasis Montaj · ReflexW · Res2DInv
+
 **Programming:** Python
+
 **GIS:** QGIS · ArcGIS
 
 ---
