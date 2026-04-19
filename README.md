@@ -22,7 +22,7 @@ Geophysicist specializing in near-surface geophysics and geophysical data proces
 
 ## Background
 
-Ph.D. in Physics (University of Buenos Aires). Former R&D project manager at the National University of Moreno, Argentina. Currently postdoctoral researcher at **BTU Cottbus-Senftenberg**, Germany, working on geophysical data acquisition and processing for resource exploration and environmental applications.
+Ph.D. in Physics (University of Buenos Aires). Former R&D project manager at the National University of Moreno, Argentina. Currently postdoctoral researcher at BTU Cottbus-Senftenberg, Germany, working on geophysical data acquisition and processing for resource exploration and environmental applications.
 
 ---
 
