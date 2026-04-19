@@ -15,9 +15,7 @@ Geophysicist specializing in near-surface geophysics and geophysical data proces
 ## Tools & software
 
 **Geophysics:** Oasis Montaj · ReflexW · Res2DInv
-
 **Programming:** Python
-
 **GIS:** QGIS · ArcGIS
 
 ---
